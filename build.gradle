@@ -35,6 +35,11 @@ subprojects {
             name 'bungeecord-repo'
             url 'https://oss.sonatype.org/content/repositories/snapshots'
         }
+        
+        maven {
+            name 'paper-repo'
+            url 'https://papermc.io/repo/repository/maven-snapshots'
+        }
 
         maven {
             name 'jitpack-repo'
