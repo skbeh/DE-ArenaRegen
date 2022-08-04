@@ -17,7 +17,7 @@ dependencies {
     compileOnly 'org.projectlombok:lombok:1.18.24'
     annotationProcessor 'org.projectlombok:lombok:1.18.22'
     implementation 'org.apache.commons:commons-lang3:3.12.0'
-    implementation 'org.spigotmc:spigot-api:1.19.1-R0.1-SNAPSHOT'
+    implementation 'org.spigotmc:spigot-api:1.13.2-R0.1-SNAPSHOT'
     implementation 'com.github.Realizedd.Duels:duels-api:3.5.1'
     implementation project(':nms')
     implementation project(':v1_8_R3')
