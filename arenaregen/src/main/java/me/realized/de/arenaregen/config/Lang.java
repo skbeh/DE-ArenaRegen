@@ -7,7 +7,7 @@ import java.util.Map;
 import java.util.regex.Pattern;
 import me.realized.de.arenaregen.ArenaRegen;
 import me.realized.de.arenaregen.util.StringUtil;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.bukkit.command.CommandSender;
 import org.bukkit.configuration.MemorySection;
 import org.bukkit.configuration.file.FileConfiguration;
