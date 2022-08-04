@@ -5,7 +5,7 @@ import me.realized.de.arenaregen.command.ARCommand;
 import me.realized.de.arenaregen.selection.Selection;
 import me.realized.duels.api.Duels;
 import me.realized.duels.api.arena.Arena;
-import org.apache.commons.lang.StringUtils;
+import org.apache.commons.lang3.StringUtils;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
